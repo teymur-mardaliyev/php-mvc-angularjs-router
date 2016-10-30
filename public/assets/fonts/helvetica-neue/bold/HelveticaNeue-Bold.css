@@ -1,0 +1,11 @@
+/** Created by TTF.in.ua **/
+@font-face {
+    font-family: 'HelveticaNeue-Bold';
+    src: url('HelveticaNeue-Bold.eot');
+    src: url('HelveticaNeue-Bold.eot?#iefix') format('embedded-opentype'),
+         url('HelveticaNeue-Bold.woff') format('woff'),
+         url('HelveticaNeue-Bold.ttf') format('truetype'),
+         url('HelveticaNeue-Bold.svg#HelveticaNeue-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

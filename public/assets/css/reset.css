@@ -1,0 +1,42 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, div, span, applet, object, iframe,
+ h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+ a, abbr, acronym, address, big, cite, code,
+ del, dfn, em, font, img, ins, kbd, q, s, samp,
+ small, strike, strong, sub, sup, tt, var,
+ b, u, i, center,
+ dl, dt, dd,
+ fieldset, form, label, legend,
+ table, caption, tbody, tfoot, thead, tr, th, td {
+ margin: 0; /* нулевая граница */
+ padding: 0; /* нулевые отступы */
+ border: 0; /* больше всего для картинок в IE6 */
+ outline: 0; /* точечная граница вокруг ссылок в Firefox */
+ font-size: 100%;
+ vertical-align: baseline;
+ background: transparent;
+ }
+
+ blockquote, q {
+ quotes: none;
+ }
+ blockquote:before, blockquote:after,
+ q:before, q:after {
+ content: '';
+ content: none;
+ }
+ :focus {
+ outline: 0; /* Firefox выделяет рамкой из точек все ссылки при нажатии */
+ }
+ ins {
+ text-decoration: none;
+ }
+ del {
+ text-decoration: line-through;
+ }
+ table {
+ border-collapse: collapse; /* cellspacing="0" */
+ border-spacing: 0;
+ }
