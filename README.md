@@ -1,7 +1,7 @@
 # php-mvc-angularjs-router
 By helping “PHP MVC AngularJS Router” we can make mobile and web applications.
 
-First of all, thanks to <a href="https://github.com/panique">Chris</a> for simple MVC framework. You can get detailed information about  “<a href="https://github.com/panique/php-login-advanced">PHP-MVC-Login</a>” made by Chris.
+First of all, thanks to <a href="https://github.com/panique">Chris</a> for simple MVC framework. You can get detailed information about  “<a href="https://github.com/panique/php-login-advanced">PHP-MVC-Login</a>” here which has been made by Chris.
 
  “AngularJS PHP MVC Router” can help to us to make mobile and web applications together. If we know only PHP and can not write backend on `node.js`,`python`,`java` etc. for AngularJS. We are able to take advantage of  “AngularJS PHP MVC Router”, which can contribute our targets. We can enjoy with PHP Router without AngularJS. Please enter here to get information and source how to use Router without AngularJS.
 
