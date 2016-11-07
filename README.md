@@ -1,7 +1,7 @@
 # php-mvc-angularjs-router
 By helping “PHP MVC AngularJS Router” we can make mobile and web applications.
 
-First of all, thanks to Chris for simple MVC framework. You can get detailed information about  “PHP-MVC-Login” made by him.
+First of all, thanks to <a href="https://github.com/panique">Chris</a> for simple MVC framework. You can get detailed information about  “<a href="https://github.com/panique/php-login-advanced">PHP-MVC-Login</a>” made by Chris.
 
  “AngularJS PHP MVC Router” can help to us to make mobile and web applications together. If we know only PHP and can not write backend on `node.js`,`python`,`java` etc. for AngularJS. We are able to take advantage of  “AngularJS PHP MVC Router”, which can contribute our targets. We can enjoy with PHP Router without AngularJS. Please enter here to get information and source how to use Router without AngularJS.
 
@@ -53,14 +53,13 @@ Below, after finish write Router parameters we start `splitUrl` function to star
 $router->splitUrl();
 
 
-Database structure:
+Database structure:</br>
 
 
-
-`data_id` - is come from other tables `id` like post table, category table etc.
-`related_table` - shows that a data connected to which table
-`url` - unique url for page
-`template` - controller/action name for router.
+`data_id` - is come from other tables `id` like post table, category table etc.</br>
+`related_table` - shows that a data connected to which table</br>
+`url` - unique url for page</br>
+`template` - controller/action name for router.</br>
 
 
 
